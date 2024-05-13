@@ -1,4 +1,4 @@
-echo "# Mini-Java Compiler
+# Mini-Java Compiler
 
 The Mini-Java Compiler project aims to create a simplified compiler for a subset of the Java programming language called \"MiniJava.\" This subset includes a limited set of features from Java, making it an excellent starting point for learning about compiler design and implementation.
 
