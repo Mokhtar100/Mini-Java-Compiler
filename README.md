@@ -29,21 +29,20 @@ The main objectives of the project are as follows:
 
 A set of sample MiniJava programs is provided for testing:
 
-- [Factorial.java]([link_to_factorial](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/Factorial.java))
-- [BinarySearch.java]([link_to_binarysearch](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/BinarySearch.java))
-- [BubbleSort.java]([link_to_bubblesort](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/BubbleSort.java))
-- [TreeVisitor.java]([link_to_treevisitor](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/TreeVisitor.java))
-- [QuickSort.java]([link_to_quicksort](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/QuickSort.java))
-- [LinearSearch.java]([link_to_linearsearch](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/LinearSearch.java))
-- [LinkedList.java]([link_to_linkedlist](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/LinkedList.java))
-- [BinaryTree.java]([link_to_binarytree](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/BinaryTree.java))
+- [Factorial.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/Factorial.java)
+- [BinarySearch.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/BinarySearch.java)
+- [BubbleSort.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/BubbleSort.java)
+- [TreeVisitor.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/TreeVisitor.java)
+- [QuickSort.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/QuickSort.java)
+- [LinearSearch.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/LinearSearch.java)
+- [LinkedList.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/LinkedList.java)
+- [BinaryTree.java](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/BinaryTree.java)
 
 ## How to Use
 
 1. Clone the repository:
-   \`\`\`bash
-   git clone [<repository_url>](https://github.com/Mokhtar100/Mini-Java-Compiler.git)
-   \`\`\`
+   ```bash
+   git clone [repository_url](https://github.com/Mokhtar100/Mini-Java-Compiler.git)
 
 2. Open the project in your preferred IDE.
 
@@ -55,6 +54,6 @@ A set of sample MiniJava programs is provided for testing:
 
 ## Contributors
 
-- [Mohamed Mokhtar]([link_to_mohamedmokhtar](https://github.com/Mokhtar100))
-- [Mahmoud Wageh]([link_to_mahmoudwageh](https://github.com/mahmoud-cr7))
-- [Shehab Mohamed]([link_to_shehabmohamed](https://github.com/ShehabM0))" > README.md
+- [Mohamed Mokhtar](https://github.com/Mokhtar100)
+- [Mahmoud Wageh](https://github.com/mahmoud-cr7)
+- [Shehab Mohamed](https://github.com/ShehabM0)" > README.md
