@@ -42,7 +42,7 @@ A set of sample MiniJava programs is provided for testing:
 
 1. Clone the repository:
    ```bash
-   git clone [repository_url](https://github.com/Mokhtar100/Mini-Java-Compiler.git)
+   git clonen https://github.com/Mokhtar100/Mini-Java-Compiler.git
 
 2. Open the project in your preferred IDE.
 
@@ -56,4 +56,4 @@ A set of sample MiniJava programs is provided for testing:
 
 - [Mohamed Mokhtar](https://github.com/Mokhtar100)
 - [Mahmoud Wageh](https://github.com/mahmoud-cr7)
-- [Shehab Mohamed](https://github.com/ShehabM0)" > README.md
+- [Shehab Mohamed](https://github.com/ShehabM0)
